@@ -64,3 +64,10 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+## TODO
+
+1. Install 'foundry-zksybc'
+2. Compile with '--zksync'
+3. Reinstall vanilla foundry 
+4.
+//forge test --match-test testPriceFeedVersionIsAccurate -vvv --fork-url $SEPOLIA_RPC_URL
